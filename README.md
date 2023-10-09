@@ -2,14 +2,14 @@
 Cargas en el csv estos datos y factura solo, solin, solito...
 
 # Concepto
-1 - Producto
-2 - Servicio
-3 - Producto y servicio
+* 1 - Producto
+* 2 - Servicio
+* 3 - Producto y servicio
 
 # IVA
-1 - Consumidor Final
-2 - Responsable Inscripto
-3 - Sujeto Exento
+* 1 - Consumidor Final
+* 2 - Responsable Inscripto
+* 3 - Sujeto Exento
 
 # Order Date
 dd/mm/aaaa
@@ -27,9 +27,9 @@ Producto o servicio a facturar
 precio del producto o servicio a facturar, se coloca solo el numero del precio
 
 # Forma de pago
-1 - Cuenta Corriente
-2 - Contado
+* 1 - Cuenta Corriente
+* 2 - Contado
 
 # Imprimir
-0 - No descarga la factura
-1 - Descarga la factura
+* 0 - No descarga la factura
+* 1 - Descarga la factura
